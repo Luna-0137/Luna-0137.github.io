@@ -1,0 +1,4 @@
+2025-06-21 18:40:47 - Error [2]: Undefined array key "title" in C:\xampp\htdocs\lore\php\forms\class-loresite-form-article.php on line 58
+2025-06-21 18:40:47 - Error [2]: Undefined array key "slug" in C:\xampp\htdocs\lore\php\forms\class-loresite-form-article.php on line 59
+2025-06-21 18:40:47 - Error [2]: Undefined array key "content" in C:\xampp\htdocs\lore\php\forms\class-loresite-form-article.php on line 60
+2025-06-21 18:40:47 - Error [2]: Undefined array key "side_content" in C:\xampp\htdocs\lore\php\forms\class-loresite-form-article.php on line 61
