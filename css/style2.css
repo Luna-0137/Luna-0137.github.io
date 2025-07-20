@@ -116,4 +116,7 @@
     border-left: 3px solid #8e67f0 !important;
   }
 
+  a {
+  text-decoration: none;
+}
   
